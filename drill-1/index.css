@@ -1,0 +1,29 @@
+body{
+    margin: 0
+}
+.top-container{
+    background-color: #444444;
+    height: 20vh;  
+}
+.bottom-container{
+    display: flex;
+    flex-direction: row;
+}
+.left-box, .right-box{
+    background-color: #D8D8D8;
+    height: 80vh;
+    width: 15vw;
+}
+.middle-box{
+    height: 80vh;
+    width: 70vw;
+}
+.middle-top-box{
+    background-color: #EFEFEF;
+    height: 70vh;
+}
+.middle-bottom-box {
+    background-color: #222222;
+    height: 10vh;
+}
+
